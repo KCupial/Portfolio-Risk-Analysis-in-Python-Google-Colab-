@@ -13,11 +13,6 @@ This project analyzes the statistical properties, volatility, and risk of stock 
 - Risk measurement using parametric and non-parametric VaR/CVaR
 - Python notebook with all code, visualizations, and calculations
 
-## Insights
-
-- All three stocks exhibit non-normal returns; **BHP** shows the largest extreme risk, while **LVMH** is the most volatile.
-- Non-parametric VaR is the most practical risk measure due to fat tails and skewness in return distributions.
-
 ## Usage
 
 1. Clone or download the repository.
